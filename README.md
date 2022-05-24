@@ -3,10 +3,12 @@
 </div><br />
 
 - #### I'm currently learning Full Stack Block Chain Application Development
+- #### I know Intermediate level of Penetration Testing
 - I'm currently learning more about
   - Web3
   - Block Chain Technology
   - DeFi
+  - Economics
 
 <br />
 
