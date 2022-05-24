@@ -1,6 +1,20 @@
 <div align="center">
 <img src="./images/Sakib.gif" height="100" />
-</div>
+</div><br />
+
+- #### I'm currently learning Full Stack Block Chain Application Development
+- I'm currently learning more about
+  - Web3
+  - Block Chain Technology
+  - DeFi
+
+<br />
+
+# 🌐Socials
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakibcy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibcy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sakibcy)
+
+<br />
 
 # 💻 Tech Stack
 
@@ -22,6 +36,12 @@
 <img src="./images/xd.png" height="50" />
 
 <br />
+
+# Notes by Me
+
+- [Block Chain Developer Notes](https://github.com/sakibcy/blockchain-dev-notes)
+- [Fultter Notes](https://github.com/sakibcy/Flutter-Features)
+- [Responsive Web Design](https://github.com/sakibcy/responsive-web-design)
 
 <div align="center">
 
