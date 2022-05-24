@@ -6,11 +6,7 @@
 
 ## BLOCK CHAIN
 
-<img src="./images/ethereum.png" height="55" /> 
-<img src="./images/solidity.png" height="45" /> &nbsp;
-<img src="./images/web3js.png" height="45" />
-<img src="./images/metamask.png" height="55" />
-<img src="./images/truffle.png" height="50" />
+<img src="./images/ethereum.png" height="55" /><img src="./images/solidity.png" height="45" /> &nbsp; <img src="./images/web3js.png" height="45" /><img src="./images/metamask.png" height="55" /><img src="./images/truffle.png" height="50" />
 
 <br />
 
