@@ -2,27 +2,21 @@
 <img src="./images/Sakib.gif" height="100" />
 </div>
 
-# 🎯 Tech Stack
+# 💻 Tech Stack
 
-## BLOCK CHAIN
+### BLOCK CHAIN
 
-<img src="./images/ethereum.png" height="55" /><img src="./images/solidity.png" height="45" /> &nbsp; <img src="./images/web3js.png" height="45" /><img src="./images/metamask.png" height="55" /><img src="./images/truffle.png" height="50" />
+<img src="./images/ethereum.png" height="55" /><img src="./images/solidity.png" height="45" /> &nbsp; <img src="./images/web3js.png" height="45" /> &nbsp; <img src="./images/metamask.png" height="55" /><img src="./images/truffle.png" height="50" />
 
-<br />
-
-## WEB
+### WEB
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,redux,bootstrap,tailwind,sass)](https://github.com/sakibcy)
 
-<br />
-
-## MOBILE
+### MOBILE
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://github.com/sakibcy)
 
-<br />
-
-## DESIGN
+### DESIGN
 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://github.com/sakibcy) &nbsp;
 <img src="./images/xd.png" height="50" />
