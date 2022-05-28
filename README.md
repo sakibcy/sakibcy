@@ -8,6 +8,7 @@
   - Web3
   - Block Chain Technology
   - DeFi
+  - Japanese Language 日本語
   - Economics
 
 <br />
@@ -26,7 +27,9 @@
 
 ### WEB
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,redux,bootstrap,tailwind,sass)](https://github.com/sakibcy)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongo,redux)](https://github.com/sakibcy)
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass)](https://github.com/sakibcy)
 
 ### MOBILE
 
@@ -47,6 +50,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibcy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibcy)](https://github.com/sakibcy)
 
 </div>
