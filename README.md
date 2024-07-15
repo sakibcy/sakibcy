@@ -1,13 +1,13 @@
 <div align="center">
-<h2>A passionate Software Engineer, always ready to take Challanges. 😤 </h2>
+<h2>A Passionate Software Engineer, Always Ready to Take Challanges. 😤 </h2>
 <span>🔐 Know Intermediate level of Penetration Testing 🔐</span><br>
 <span>📘 Fall in love with Bengali Literature 💖</span>
 </div>
 
 <br />
 
-## 💻 Tech Stack
-
+<div align="center">
+  
 #### BLOCK CHAIN
 ![Ethereum](https://img.shields.io/static/v1?style=for-the-badge&message=Ethereum&color=3C3C3D&logo=Ethereum&logoColor=FFFFFF&label=) ![Solidity](https://img.shields.io/static/v1?style=for-the-badge&message=Solidity&color=363636&logo=Solidity&logoColor=FFFFFF&label=) ![Web3.js](https://img.shields.io/static/v1?style=for-the-badge&message=Web3.js&color=black&logo=Web3.js&logoColor=yellow&label=) &nbsp;
 
@@ -20,4 +20,4 @@
 #### DESIGN
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<br />
+</div>
