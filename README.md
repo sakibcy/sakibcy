@@ -1,5 +1,5 @@
 <div align="center">
-<h2>A Passionate Software Engineer, Always Ready to Take Challanges. 😤 </h2>
+<h2>A Passionate Software Engineer, Always Ready to Take Challenges. 😤 </h2>
 <span>🔐 Know Intermediate level of Penetration Testing 🔐</span><br>
 <span>📘 Fall in love with Bengali Literature 💖</span>
 </div>
