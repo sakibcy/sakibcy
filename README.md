@@ -31,6 +31,8 @@ Securing smart contracts and decentralized systems, and building full-stack prod
       • Web applications<br />
       • Mobile applications<br />
       • Desktop applications<br />
+      • Bots and automation<br />
+      • Browser extensions<br />
       • Blockchain stacks
     </td>
   </tr>
