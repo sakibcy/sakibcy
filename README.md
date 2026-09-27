@@ -43,25 +43,47 @@ Securing smart contracts and decentralized systems, and building full-stack prod
 
 ## 🧰 Tech Stack
 
-### Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+<div align="center">
 
-### Web
-![Web](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,bootstrap,webpack&perline=7)
+<table>
+  <tr>
+    <td align="center" width="160"><b>Blockchain</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+      <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Foundry" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" />
+      <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,rust,go,java,kotlin,dart" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,webpack" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend &amp; Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb" alt="Backend and Database" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" alt="Mobile" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,netlify,git" alt="Cloud and DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,xd" alt="Design" /></td>
+  </tr>
+</table>
 
-### Mobile
-![Mobile](https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,react&perline=6)
-
-### Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,vercel,netlify,git&perline=7)
-
-### Design
-![Design](https://skillicons.dev/icons?i=figma,xd&perline=2)
+</div>
 
 ---
 
