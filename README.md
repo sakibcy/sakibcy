@@ -14,19 +14,37 @@ Securing smart contracts and decentralized systems, and building full-stack prod
 
 ## 🧑‍💻 About Me
 
-- 🔐 **Blockchain Security Researcher** focused on 
-  - smart contract auditing
-  - vulnerability research
-  - secure protocol design on the EVM based and other chains.
-- 🛠️ **Software Engineer** with hands-on experience across
-  - Web
-  - Mobile
-  - Desktop
-  - Blockchain stacks
-- 📘 Passionate reader of
-  - Philosophy
-  - Literature
-  - Mystical Knowledge
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">🔐<br /><b>Blockchain Security Researcher</b></td>
+    <td>
+      • Smart contract auditing<br />
+      • Vulnerability research<br />
+      • Secure protocol design on EVM-based and other chains
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🛠️<br /><b>Software Engineer</b></td>
+    <td>
+      • Web applications<br />
+      • Mobile applications<br />
+      • Desktop applications<br />
+      • Blockchain stacks
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📘<br /><b>Beyond Code</b></td>
+    <td>
+      • Philosophy<br />
+      • Literature<br />
+      • Mystical Knowledge
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
