@@ -107,18 +107,6 @@ Securing smart contracts and decentralized systems, and building full-stack prod
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sakibcy&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://ghchart.rshah.org/sakibcy)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 Open to collaborating on smart contract audits, security research, and Web3 projects.
