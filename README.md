@@ -20,28 +20,28 @@ Securing smart contracts and decentralized systems, and building full-stack prod
   <tr>
     <td align="center" width="200">🔐<br /><b>Blockchain Security Researcher</b></td>
     <td>
-      • Smart contract auditing<br />
-      • Vulnerability research<br />
-      • Secure protocol design on EVM-based and other chains
+      🔎 Smart contract auditing<br />
+      🐛 Vulnerability research<br />
+      🛡️ Secure protocol design on EVM-based and other chains
     </td>
   </tr>
   <tr>
     <td align="center">🛠️<br /><b>Software Engineer</b></td>
     <td>
-      • Web applications<br />
-      • Mobile applications<br />
-      • Desktop applications<br />
-      • Bots and automation<br />
-      • Browser extensions<br />
-      • Blockchain stacks
+      🌐 Web applications<br />
+      📱 Mobile applications<br />
+      🖥️ Desktop applications<br />
+      🤖 Bots and automation<br />
+      🧩 Browser extensions<br />
+      ⛓️ Blockchain stacks
     </td>
   </tr>
   <tr>
     <td align="center">📘<br /><b>Beyond Code</b></td>
     <td>
-      • Philosophy<br />
-      • Literature<br />
-      • Mystical Knowledge
+      🧠 Philosophy<br />
+      📖 Literature<br />
+      ✨ Mystical Knowledge
     </td>
   </tr>
 </table>
