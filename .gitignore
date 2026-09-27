@@ -1,1 +1,18 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.code-workspace
 sakibcy.code-workspace
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local tooling
+.claude/
+*.log
+*.tmp
